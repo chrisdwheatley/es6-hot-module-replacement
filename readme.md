@@ -27,3 +27,7 @@ Start the server.
 Navigate to [localhost:8080](http://localhost:8080) in your browser of choice.
 
 Start making changes to files within the `src/` directory and you'll see those changes in the browser immediately, all without needing to refresh the page.
+
+### License
+
+Released under the MIT license: [opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
