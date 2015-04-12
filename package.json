@@ -1,9 +1,10 @@
 {
   "name": "es6-hot-module-replacement",
   "version": "0.1.0",
-  "description": "Basic example of ES6 hot module replacement",
+  "description": "A simple example of Hot Module Replacement using ES6 modules & syntax.",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Wheatley <chriswheatley87@gmail.com>",

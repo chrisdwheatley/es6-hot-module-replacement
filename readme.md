@@ -16,15 +16,21 @@ A simple example of Hot Module Replacement using ES6 modules & syntax.
 
 Clone the repository and `cd` into it.
 
-`git clone git@github.com:swirlycheetah/es6-hot-module-replacement.git && cd es6-hot-module-replacement`
+```
+git clone git@github.com:swirlycheetah/es6-hot-module-replacement.git && cd es6-hot-module-replacement
+```
 
 Install the project dependencies.
 
-`npm install`
+```
+npm install
+```
 
 Start the server.
 
-`gulp dev`
+```
+npm start
+```
 
 Navigate to [localhost:8080](http://localhost:8080) in your browser of choice.
 
