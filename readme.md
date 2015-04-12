@@ -2,7 +2,7 @@
 
 A simple example of Hot Module Replacement using ES6 modules & syntax.
 
-![ES6 Hot Module Replacement Example](http://giant.gfycat.com/VeneratedShamefulAlbino.gif)
+![ES6 Hot Module Replacement Example](http://giant.gfycat.com/SnarlingKindheartedGalapagosdove.gif)
 
 ### Features
 
