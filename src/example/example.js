@@ -9,6 +9,6 @@ var fragment = `<example>
                   </div>
                 </example>`;
 
-export default (mainElement) => {
-	mainElement.insertAdjacentHTML('afterbegin', fragment);
+export default (element) => {
+	element.insertAdjacentHTML('afterbegin', fragment);
 };
